@@ -1,0 +1,17 @@
+# Data files (keep raw data OUT of repo)
+data/*
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
